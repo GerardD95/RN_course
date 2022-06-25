@@ -1,0 +1,1 @@
+In this repo I created a to do app in react native by following the following react native crash course: https://www.youtube.com/watch?v=VozPNrt-LfE&t=4001s
